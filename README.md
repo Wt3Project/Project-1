@@ -92,6 +92,24 @@ Dependency: Finish-to-Start (FS) after Final Testing
 
 Mile Stones
 
+
+
+
+Update*
+
+Jira Backlog and Sprint 1
+
+The Parking App backlog was created in Jira using 45 tasks:
+
+Login: 5 items
+User and Operator UI: 15 items
+Back end Processes: 15 items
+Reporting: 10 items
+Sprint 1
+
+Sprint 1 includes 10 tasks focused on the basic parking app foundation. These tasks include login, account setup, user and operator dashboards, parking availability, and access control.
+
+
 •	Requirements Completed
 •	System Design Completed
 •	Authentication Completed
